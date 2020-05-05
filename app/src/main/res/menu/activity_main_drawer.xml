@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/groupOne"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/menu_assign_history"
+            android:icon="@drawable/ic_assign_history"
+            android:title="@string/title_your_certificateshistory" />
+
+        <item
+            android:id="@+id/menu_watched"
+            android:icon="@drawable/ic_watched"
+            android:title="@string/watched" />
+
+        <item
+            android:id="@+id/menu_saved"
+            android:icon="@drawable/ic_saved_video"
+            android:title="@string/bookmarked" />
+
+        <item
+            android:id="@+id/menu_cart"
+            android:icon="@drawable/ic_cart"
+            android:title="@string/title_my_cart"
+            app:actionViewClass="android.widget.TextView" />
+
+        <item
+            android:id="@+id/menu_my_courses"
+            android:icon="@drawable/ic_my_course"
+            android:title="@string/lbl_my_courses" />
+
+        <item
+            android:id="@+id/menu_my_order"
+            android:icon="@drawable/ic_my_order"
+            android:title="@string/lbl_purchased_history" />
+
+        <item
+            android:id="@+id/menu_certi_validation"
+            android:icon="@drawable/ic_certificate"
+            android:title="@string/lbl_certificate_validation" />
+    </group>
+
+    <group
+        android:id="@+id/groupTwo"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_terms_of_use"
+            android:title="@string/terms_of_use" />
+        <item
+            android:id="@+id/menu_privacy_policy"
+            android:title="@string/privacy_policy" />
+        <item
+            android:id="@+id/menu_faq"
+            android:title="@string/faq" />
+        <item
+            android:id="@+id/menu_help_support"
+            android:title="@string/help_support" />
+        <item
+            android:id="@+id/menu_logout"
+            android:title="@string/logout" />
+    </group>
+</menu>

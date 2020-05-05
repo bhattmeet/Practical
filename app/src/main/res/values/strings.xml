@@ -1,0 +1,464 @@
+<resources>
+
+    <string name="app_name" translatable="false">Practical</string>
+    <string name="facebook_app_id">461519798001967</string>
+    <string name="fb_login_protocol_scheme">fb461519798001967</string>
+    <string name="web_client_id">288241916338-qd96g1m7crd8kr5ltnrd6h3rrq59k78o.apps.googleusercontent.com</string>
+
+    <string name="twitter_consumer_key" translatable="false">9gVY8bLw3FI91B3EMecx8FZ3G</string>
+    <string name="twitter_consumer_secret" translatable="false">wAj1egAoijrrF57ZPJRggI846N4lbIWMFvgmbQb26GzenEoo6E</string>
+
+    <string name="error_internet_connection" translatable="false">Please check your network connection and then try again</string>
+    <string name="error_network" translatable="false">There was a Problem connecting to the Server, please check your network connection, and then try again.</string>
+    <string name="ok">Ok</string>
+    <string name="error_file_download">Problem in file download</string>
+
+    <string name="lbl_total_correct_incorrect_answer" formatted="false">%d/%d</string>
+    <string name="lbl_des_sign" translatable="false">-</string>
+    <string name="semi_colon" translatable="false">:</string>
+    <string name="lbl_hash" translatable="false">#</string>
+    <string name="dollar_sign" translatable="false">£%d</string>
+    <string name="dollar_sign_in_string" translatable="false">£%s</string>
+    <string name="percentage_sign_in_string" translatable="false">+ %s\%% Tax</string>
+
+    <string-array name="imageExtension">
+        <item>jpg</item>
+        <item>png</item>
+        <item>jpeg</item>
+    </string-array>
+
+    <!-- Sign In Screen -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_in">Sign in</string>
+    <string name="hint_forgot_pwd">Forgot Password?</string>
+    <string name="hint_sign_up_account">Don\'t have an account?</string>
+    <string name="btn_sign_up">Sign up</string>
+
+    <string name="error_username">Please enter nickname or email</string>
+    <string name="error_pwd_min_length">Password must contain 6 to 12 characters</string>
+    <string name="error_password_not_match">New password does not match with the reset new password</string>
+    <string name="error_pwd_mandatory">Please enter password</string>
+    <string name="error_newpwd_mandatory">Please enter new password</string>
+    <string name="error_oldpwd_mandatory">Please old enter old password</string>
+
+    <!-- Sign Up Screen -->
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email_id">Email ID</string>
+    <string name="hint_dob">Date Of Birth</string>
+    <string name="btn_log_in">Log in</string>
+    <string name="hint_sign_in_account">Already have an account?</string>
+    <string name="error_email">Please enter email address</string>
+    <string name="error_valid_email">Please enter valid email address</string>
+    <string name="error_name">Please enter full name</string>
+    <string name="error_date_of_birth">Please enter date of birth</string>
+    <string name="error_company_name">Please enter company name</string>
+    <string name="error_quantity">Please enter quantity</string>
+    <string name="error_mail">Please enter Email ID</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="lbl_forgot_pwd">Forgot Password</string>
+    <string name="lbl_forgot_pwd_note">Requesting you to enter email address you used while register
+    and you will receive a link to reset your password in a mail.</string>
+    <string name="btn_submit">Submit</string>
+
+    <!-- Enter Otp Screen -->
+    <string name="title_enter_otp">Enter OTP</string>
+    <string name="hint_enter_otp">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="hint_re_send_otp">Resend OTP</string>
+    <string name="error_verify_code">Verification code is not valid</string>
+
+    <!-- Enter New Password -->
+    <string name="title_create_new_pw">Create New Password</string>
+    <string name="hint_create_pwd">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="hint_new_pwd">New Password</string>
+    <string name="hint_new_pwd_again">New Password Again</string>
+    <string name="error_confirm_password">Please enter repeat password</string>
+    <string name="error_confirm_pwd_mandatory">Please enter repeat password</string>
+
+    <!-- Enter Company Id -->
+    <string name="lbl_enter_company_id">Enter Company ID</string>
+    <string name="lbl_company_id_note">Search your company with company ID, If your company is already registered with us.</string>
+    <string name="hint_company_id">Company ID</string>
+    <string name="btn_continue">Continue</string>
+    <string name="skip">Skip</string>
+
+    <!-- Main Screen -->
+    <string name="edit">Edit</string>
+    <string name="hello">Hello</string>
+    <string name="home">Home</string>
+    <string name="assignhistory">Assign History</string>
+    <string name="watched">Watched</string>
+    <string name="saved">Saved</string>
+    <string name="bookmarked">Bookmarked</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="faq">FAQs</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="logout">Logout</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="search">Search</string>
+    <string name="details">Details</string>
+    <string name="logout_msg">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Edit Profile -->
+    <string name="title_edit_profile">Edit Profile</string>
+    <string name="hint_update_personal_detail">Update your personal details</string>
+    <string name="hint_mobile_number">Mobile Number</string>
+    <string name="update">Update</string>
+    <string name="btn_change_password">Change Password</string>
+
+    <!-- Change Password -->
+    <string name="title_change_password">Change Password</string>
+    <string name="hint_change_password">Change your password</string>
+    <string name="hint_old_password">Old Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_repeat_new_password">Repeat New Password</string>
+
+    <string name="modules">Modules</string>
+    <string name="courses">Courses</string>
+    <string name="score">Score</string>
+    <string name="knowledge_check">Knowledge Check</string>
+    <string name="read_more">Read More</string>
+
+    <string name="lbl_bookmark">Bookmark</string>
+    <string name="lbl_bookmark_added">Bookmark Added</string>
+    <string name="lbl_completion_note_title">On completion of this section, you will:</string>
+    <string name="lbl_completion_note_note1">Know what asbestos is;</string>
+    <string name="lbl_completion_note_note2">Understand the brief history of asbestos;</string>
+    <string name="lbl_completion_note_note3">Understand the characteristics of the two rock categories where asbestos can be found.</string>
+
+    <string name="lbl_your_quiz_history">Your quiz history:</string>
+    <string name="review">Review</string>
+    <string name="btn_take_another_quiz">Take Another Quiz</string>
+    <string name="saved_video">Saved Video</string>
+    <string name="title_your_assignhistory">Assign History</string>
+    <string name="title_your_certificateshistory">Certificate History</string>
+    <string name="btn_download">Download</string>
+    <string name="question" formatted="false">Question %d/%d</string>
+    <string name="error_select_single_option">Select any one option</string>
+    <string name="error_select_multiple_option">Select more than one option</string>
+
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_end_quiz">End Quiz</string>
+    <string name="btn_next">Next Question</string>
+    <string name="btn_go_to_home">Back to Home</string>
+    <string name="btn_go_to_module">Go to Module</string>
+    <string name="lbl_congratulation">Congratulation</string>
+    <string name="lbl_oh">Ohhhhh!!!</string>
+    <string name="lbl_passed_quiz_text">You have passed !!!</string>
+    <string name="lbl_failed_quiz_text">You have failed !!!</string>
+    <string name="lbl_certificate_note">Certificate has been sent on your registered mail ID.Click on below button to download.</string>
+
+    <string name="lbl_encourage_watch_video_again">We encourage you to watch video and try again.</string>
+    <string name="btn_download_your_certificate">Download your Certificate</string>
+    <string name="btn_click_to_save_certificate">Click here to share your certificate</string>
+    <string name="lbl_quiz_summery">Quiz Summary:</string>
+    <string name="lbl_correct_answer">Correct Answer</string>
+    <string name="lbl_in_correct_answer">Incorrect Answer</string>
+    <string name="btn_review_this_quiz">Review This Quiz</string>
+    <string name="btn_take_quiz_again">Take a quiz again</string>
+    <string name="msg_unauthorized">We are signing you out as we found your account access from another device</string>
+    <string name="error_complete_video_note">You must watch video before moving on to the quiz.</string>
+    <string name="lbl_duration">Duration</string>
+    <string name="lbl_languages">Languages</string>
+    <string name="btn_buy_now">Buy Now</string>
+    <string name="lbl_introduction">Introduction</string>
+    <string name="lbl_what_will_you_learn">What will you learn?</string>
+    <string name="lbl_single_user">Individual User</string>
+    <string name="lbl_corporate">Corporate</string>
+    <string name="hint_company_name">Company Name</string>
+    <string name="hint_company_code_optional">Company Code(Optional)</string>
+    <string name="title_create_account">Create Account</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="error_image_format">Invalid file format. Please choose the JPG,PNG and JPEG format</string>
+    <string name="msg_quiz_time_out">Time is over</string>
+    <string name="msg_no_application_found">No Application available to view pdf</string>
+    <string name="view_pdf">View PDF</string>
+    <string name="cancel">Cancel</string>
+    <string name="msg_saved_file_in">Your certificate saved in:\n</string>
+    <string name="invoice_saved_file_in">Your invoice saved in:\n</string>
+    <string name="lbl_order_no">Order No</string>
+    <string name="lbl_display_number_of_modules">(%d Modules)</string>
+    <string name="lbl_qty">Qty:</string>
+    <string name="lbl_remaining_qty">Remaining Qty:</string>
+    <string name="lbl_remove_this_item">Remove this item</string>
+    <string name="msg_added_to_cart">Added to cart</string>
+    <string name="lbl_price_details">Bill Details</string>
+    <string name="lbl_amount_payable">Total to Pay</string>
+    <string name="title_my_cart">Cart</string>
+    <string name="credit_card_digits">1234567890-</string>
+    <string name="number_digits">1234567890</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="empty_watched_video_title">Haven\'t watched any courses?</string>
+    <string name="empty_watched_video_description">Explore our health and safety\ncourses now.</string>
+    <string name="empty_certificates_title">Take a look into our health and safety\ncourses and achieve the certificate.</string>
+    <string name="empty_promo_video_title">Promo video unavailable.</string>
+    <string name="empty_certificates_description">Note: You can save your certificate in your drive.</string>
+    <string name="empty_saved_video_title">Your bookmarked videos bucket is empty!</string>
+    <string name="lbl_display_price_items">Total Cost (Items)</string>
+    <string name="lbl_display_vat_percentage">VAT (%d\%% Tax)</string>
+    <string name="lbl_display_video_percentage">(%d\%% Tax)</string>
+    <string name="lbl_display_total_amount">Total: £%s</string>
+    <string name="msg_remove_item_from_cart">Are you sure you want to remove this item from cart?</string>
+    <string name="msg_remove_card">Are you sure you want to remove this card?</string>
+    <string name="cart">Cart</string>
+    <string name="empty_cart_title">Your cart is empty.</string>
+    <string name="lbl_total_to_pay">Total to pay</string>
+    <string name="lbl_card_number">Card number</string>
+    <string name="hint_name_on_card">Name on card</string>
+    <string name="lbl_expiry">Expiry</string>
+    <string name="lbl_MM">MM</string>
+    <string name="lbl_YY">YY</string>
+    <string name="lbl_cvv">CVV</string>
+    <string name="lbl_payment_method">Payment Method</string>
+    <string name="select">select</string>
+    <string name="lbl_month">Month</string>
+    <string name="lbl_year">Year</string>
+    <string name="error_enter_name_on_card">Please enter name on card</string>
+    <string name="error_enter_card_number">Please enter card number</string>
+    <string name="error_enter_valid_card_number">Please valid card number</string>
+    <string name="error_enter_cvv">Please enter cvv</string>
+    <string name="error_enter_valid_cvv">Please enter valid cvv</string>
+    <string name="error_enter_expiry_month">Please enter month</string>
+    <string name="error_enter_expiry_year">Please enter Year</string>
+    <string name="lbl_assign_users">Assign Users</string>
+    <string name="lbl_view_course">View Course</string>
+    <string name="lbl_assign_user">Assign User</string>
+    <string name="lbl_assigned_user">Assigned User</string>
+    <string name="btn_view_courses">View Courses</string>
+    <string name="lbl_order_placed_on">Order placed on</string>
+    <string name="lbl_status">Status</string>
+    <string name="lbl_total">Total</string>
+    <string name="lbl_success">Success</string>
+    <string name="lbl_fail">Fail</string>
+    <string name="loading_more">Loading more&#8230;</string>
+    <string name="lbl_my_courses">My Courses</string>
+    <string name="msg_profile_updated">Profile updated successfully</string>
+    <string name="lbl_continue_watching">Continue Watching</string>
+    <string name="msg_invalid_quantity">Please enter valid quantity.</string>
+    <string name="btn_final_assessment">Final Assessment</string>
+    <string name="msg_purchased_course">You have already purchased this course.</string>
+    <string name="title_please_note">Please Note:</string>
+    <string name="msg_payment_success_info">Purchased courses are valid till 30 days from the purchased date so we would suggest you to assign this course to your teammates as soon as possible</string>
+    <string name="msg_no_assign_user_found">No user found</string>
+    <string name="msg_assign_user">You can not assign more than %d users</string>
+    <string name="msg_press_again_to_exit">Press again to exit</string>
+    <string name="lbl_purchased_history">Purchase History</string>
+    <string name="lbl_certificate_validation">Certificate Validation</string>
+    <string name="msg_empty_my_courses">No courses found</string>
+    <string name="msg_empty_my_order">No purchase history found</string>
+    <string name="msg_empty_assigned_course">You will have to assign this course to yourself in order to view the course</string>
+    <string name="lbl_login_with_social">Or Login With Social</string>
+    <string name="txt_including">+ VAT</string>
+    <string name="btn_add_to_cart">Add to Cart</string>
+    <string name="btn_watch_promo">Watch Promo</string>
+
+<!--    Instructions-->
+    <string name="lbl_instructions">Instructions</string>
+    <string name="txt_instructionData">This quiz consists of 10 multiple-choice questions. To be successful with the weekly quizzes, it’s important to thoroughly read chapter 5 in the textbook. It will also be extremely useful to study the key terms at the end of the chapter and review the Test Your Knowledge activity at the end of the chapter. Keep the following in mind:</string>
+    <string name="txt_multipleAttempts">Multiple Attempts - You will have three attempts for this quiz with your highest score being recorded in the grade book.</string>
+    <string name="txt_timings">Timing - You will need to complete each of your attempts in one sitting, as you are allotted 30 minutes to complete each attempt.</string>
+    <string name="txt_answers">Answers - You may review your answer-choices and compare them to the correct answers after your final attempt.</string>
+    <string name="txt_startQuiz">To start, click the "Take the Quiz" button. When finished, click the "Submit Quiz" button.</string>
+    <string name="txt_registeredUsers">Only registered, enrolled users can take graded quizzes</string>
+    <!--<string name=""></string>-->
+
+<!--    Error Validation-->
+    <string name="error_first_name">Enter First Name</string>
+    <string name="error_last_name">Enter Last Name</string>
+    <string name="error_email_address">Enter Email Address</string>
+    <string name="error_country_code">Selet Country Code</string>
+    <string name="error_mobile_number">Enter Mobile Number</string>
+    <string name="error_addressTitle">Enter Address Title</string>
+    <string name="error_postcode">Enter Postcode</string>
+    <string name="error_phonecode">Select Phonecode</string>
+    <string name="error_address1">Enter Address</string>
+    <string name="error_city_name">Enter City Name</string>
+    <string name="error_country_name">Select Country Name</string>
+    <string name="error_fax_name">Enter FAX Number</string>
+    <string name="error_vat_name">Enter VAT Number</string>
+
+
+    <!-- Others -->
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_medium">sans-serif-medium</string>
+    <string name="font_family_regular">sans-serif</string>
+    <string name="font_family_condensed">sans-serif-condensed</string>
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="font_family_thin">sans-serif-thin</string>
+
+    <string name="font_pop_in_bold" translatable="false">fonts/Poppins-Bold.ttf</string>
+    <string name="font_pop_in_semi_bold" translatable="false">fonts/Poppins-SemiBold.ttf</string>
+    <string name="font_pop_in_extra_black" translatable="false">fonts/Poppins-ExtraBold.ttf</string>
+    <string name="font_pop_in_black" translatable="false">fonts/Poppins-Black.ttf</string>
+    <string name="font_pop_in_light" translatable="false">fonts/Poppins-Light.ttf</string>
+    <string name="font_pop_in_extra_light" translatable="false">fonts/Poppins-ExtraLight.ttf</string>
+    <string name="font_pop_in_regular" translatable="false">fonts/Poppins-Regular.ttf</string>
+
+    <string name="CHANNEL_ID" translatable="false">my_channel_01</string>
+    <string name="ripple_duration" translatable="false">300</string>
+    <string name="notification_msg_download">Downloading apk file</string>
+    <string name="rational_external_storage">This application needs access to your external storage</string>
+
+    <!--Error Code-->
+    <string name="ERR100">Parameters Missing</string>
+    <string name="ERR101">Request data is empty.</string>
+    <string name="ERR102">First parameters is must be array</string>
+    <string name="ERR103">We are unable to match the Email/Password you entered</string>
+    <string name="ERR104">Please login</string>
+    <string name="ERR105">Email address is not register with us</string>
+    <string name="ERR106">You have entered wrong verification code</string>
+    <string name="ERR107">User not found</string>
+    <string name="ERR108">The email has already been taken</string>
+    <string name="ERR109">Quiz result must be array</string>
+    <string name="ERR110">Question ID not found</string>
+    <string name="ERR111">Video\'s question and requested question size are different</string>
+    <string name="ERR112">Record not found</string>
+    <string name="ERR113">Exam is attempt by other user</string>
+    <string name="ERR114">Your current password is incorrect</string>
+    <string name="ERR115">New password and old password is similar. </string>
+    <string name="ERR116">Company name already register</string>
+    <string name="ERR117">You have entered wrong company code</string>
+    <string name="ERR118">You don\'t have any product in your cart</string>
+    <string name="ERR119">Something goes wrong</string>
+    <string name="ERR120">No braintree customer id</string>
+    <string name="ERR121">You don\'t have enough quantity to assign user</string>
+    <string name="ERR122">You have already purchased this course (Please note: Validity of purchased course is 30days from the purchase date)</string>
+    <string name="ERR123">This course is already added in your cart</string>
+    <string name="ERR124">Order not found</string>
+    <string name="ERR125">Invalid Coupon code</string>
+    <string name="ERR126">Email already exist.</string>
+    <string name="ERR127">Invalid certificate.</string>
+    <string name="ERR128">Already invited this user.</string>
+
+
+    <string name="SUCC100">Success</string>
+    <string name="SUCC101">Record added successfully</string>
+    <string name="SUCC102">Record updated successfully</string>
+    <string name="SUCC103">Record deleted successfully</string>
+    <string name="SUCC104">We have sent a verification code to your email address</string>
+    <string name="SUCC105">Payment successfully</string>
+
+    <!--            HTTP EXCEPTION     -->
+    <string name="error_bad_request_400">The request could not be understood by the server due to malformed syntax.</string>
+    <string name="error_unauthorized_401">The request requires user authentication. The response MUST include a WWW-Authenticate header field.</string>
+    <string name="error_forbidden_403">The server understood the request, but is refusing to fulfill it.</string>
+    <string name="error_not_found_404">The server has not found anything matching the Request-URI.</string>
+    <string name="error_method_not_allowed_405">The method specified in the Request-Line is not allowed for the resource identified by the Request-URI.</string>
+    <string name="error_request_timeout_408">Your request timed out. Please retry the request.</string>
+    <string name="error_request_entity_too_large_413">The server is refusing to process a request because the request entity is larger than the server is willing or able to process.</string>
+    <string name="error_request_uri_too_long_414">The server is refusing to service the request because the Request-URI is longer than the server is willing to interpret.</string>
+    <string name="error_internal_server_error_500">The server encountered an unexpected condition which prevented it from fulfilling the request.</string>
+    <string name="error_unknown">An unknown error occurred</string>
+
+
+    <!--            END HTTP EXCEPTION     -->
+
+    <!-- Help And Support -->
+    <string name="lbl_help_support">Help And Support</string>
+    <string name="lbl_help_support_title">Tell us your query or feedback</string>
+    <string name="hint_choose_topic">Enter Topic</string>
+    <string name="hint_messages">Messages</string>
+    <string name="btn_send">Send</string>
+    <!--End Help And Support -->
+
+
+    <string name="error_contact">Please Enter Contact Number</string>
+    <string name="regexErrorMessage">Please Enter Valid %s</string>
+    <string name="minLengthMessage">Minimum %s Characters Required</string>
+    <string name="MaxLengthErrorMessage">Maximum %s Characters Allowed</string>
+    <string name="requiredErrorMessage">This field is required</string>
+
+    <string name="minLengthMessageForContact">Minimum %s Digits Required</string>
+    <string name="MaxLengthErrorMessageForContact">Maximum %s Digits Allowed</string>
+    <string name="only_alphabet_allow">Please enter only alphabetical characters</string>
+    <string name="only_alphanumeric_allow">Please enter only alphanumeric characters</string>
+    <string name="special_char_not_allowed">Special characters are not allowed</string>
+    <string name="only_character_not_allow">Only characters are not allowed</string>
+
+    <string name="MinLengthOne">1</string>
+    <string name="MinLengthTwo">2</string>
+    <string name="MinLengthSix">6</string>
+    <string name="MinLengthTen">10</string>
+    <string name="MaxLengthTwelve">12</string>
+    <string name="MaxLengthTwenty">20</string>
+    <string name="MaxLengthThirty">30</string>
+    <string name="MaxLengthFifty">50</string>
+    <string name="MaxLengthTwoHundred">200</string>
+    <string name="MaxLengthFiveHundred">500</string>
+    <string name="MaxLengthThousand">1000</string>
+
+
+    <string name="error_enter_emoji">You can\'t insert emoji and symbols</string>
+    <string name="error_password_same">Can\'t enter same, current password and new password.</string>
+    <string name="sucess_reset_password_msg">Password reset successfully</string>
+
+    <!-- Help Support Screen -->
+    <string name="error_help_support_topic">Please enter topic</string>
+    <string name="error_help_support_desc">Please enter description</string>
+    <string name="sucess_save_inquiry_msg">Inquiry save successfully</string>
+    <string name="sucess_add_bookmark_video_msg">Video added in bookmark.</string>
+    <string name="sucess_removed_bookmark_video_msg">Video removed from bookmark.</string>
+    <string name="txt_no_data_found">No Data Found!</string>
+    <string name="txtuser">User</string>
+    <string name="signin">Signin</string>
+    <string name="txt_addressname">Stypix</string>
+    <string name="txt_address">Capital House,Kemp House,152-160 City Road,London,England,United Kingdom</string>
+    <string name="btnPay">Proceed to pay</string>
+    <string name="txtAddressTitle">Address Title</string>
+    <string name="txtFirstName">First Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtEmailAddress">Email Address</string>
+    <string name="txtMobile">Mobile Number</string>
+    <string name="txtCompanyName">Company Name</string>
+    <string name="txtRegion">Region</string>
+    <string name="txtPostcode">PostCode</string>
+    <string name="txtAddress1">Address Line 1</string>
+    <string name="txtAddress2">Address Line 2</string>
+    <string name="txtCity">Town/City</string>
+    <string name="txtCountry">Select Country</string>
+    <string name="txtExtension">Country Code</string>
+    <string name="txtFax">FAX</string>
+    <string name="txtVat">VAT</string>
+    <string name="btnSave">Save</string>
+    <string name="lbl_add_user">Add User</string>
+    <string name="hint_name">Enter Employee Name</string>
+    <string name="hint_e_mail">Enter Employee E-mail</string>
+    <string name="send">Send</string>
+    <string name="lbl_add_billing_address">Add Billing Address</string>
+    <string name="txt_ok">Ok</string>
+    <string name="txt_qty">Qty:</string>
+    <string name="txt_coupon_code_applied">Coupon Code Applied!</string>
+    <string name="edt_enter_coupon_code">Enter Coupon Code</string>
+    <string name="txt_apply">Apply</string>
+    <string name="txt_coupondiscount">Coupon Discount (%d\%% Discount)</string>
+    <string name="txt_vat">VAT (%d\%% Discount)</string>
+    <string name="txt_remove_coupon">Remove Coupon</string>
+    <string name="menu_txt_export">Export</string>
+    <string name="lbl_download_invoice">Download Invoice</string>
+    <string name="lbl_assign_dialog">Do you want to assign this course yourself ?</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+    <string name="msg_enter_email">Please enter Email ID.</string>
+    <string name="lbl_certificateValidation">Please enater an code number in the box below</string>
+    <string name="txt_Certificate">Certificate Code Number</string>
+    <string name="btn_validate">Validate</string>
+    <string name="txt_Validation">This Certificate code is Valid!</string>
+    <string name="txt_InValidation">Invalid Certificate</string>
+    <string name="lbl_imageUpload">Upload your image!</string>
+    <string name="edt_cvv">CVV</string>
+    <string name="lbl_card_security">Let us know your debit/Credit card information. Please note your card details are secured with us.</string>
+    <string name="txt_accept_payment">I accept the payment</string>
+    <string name="txt_terms_and_condition">terms and condition</string>
+    <string name="txt_save_card_details">Save card details for later use.</string>
+    <string name="rbtxt_add_new_card">Add New Card</string>
+
+
+</resources>

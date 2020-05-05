@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingTop="@dimen/_15sdp"
+    android:paddingBottom="@dimen/_15sdp"
+    android:paddingStart="@dimen/_15sdp"
+    android:paddingEnd="@dimen/_15sdp">
+
+    <item android:drawable="@drawable/circle_with_gray_border_bg"/>
+    <item android:drawable="@drawable/ic_close_black_24dp"
+        android:gravity="center"/>
+
+</layer-list>

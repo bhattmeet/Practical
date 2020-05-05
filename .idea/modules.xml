@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Documents-OwlAcademic.iml" filepath="$PROJECT_DIR$/Documents-OwlAcademic.iml" group="OwlAcademic" />
+      <module fileurl="file://$PROJECT_DIR$/Imagepickers/Documents-OwlAcademic-Imagepickers.iml" filepath="$PROJECT_DIR$/Imagepickers/Documents-OwlAcademic-Imagepickers.iml" group="OwlAcademic/Imagepickers" />
+      <module fileurl="file://$PROJECT_DIR$/Utilities/Documents-OwlAcademic-Utilities.iml" filepath="$PROJECT_DIR$/Utilities/Documents-OwlAcademic-Utilities.iml" group="OwlAcademic/Utilities" />
+      <module fileurl="file://$PROJECT_DIR$/app/Documents-OwlAcademic-app.iml" filepath="$PROJECT_DIR$/app/Documents-OwlAcademic-app.iml" group="OwlAcademic/app" />
+      <module fileurl="file://$PROJECT_DIR$/GitHub-OWLAcademic.iml" filepath="$PROJECT_DIR$/GitHub-OWLAcademic.iml" group="OWLAcademic" />
+      <module fileurl="file://$PROJECT_DIR$/Imagepickers/Imagepickers.iml" filepath="$PROJECT_DIR$/Imagepickers/Imagepickers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OwlAcademic.iml" filepath="$PROJECT_DIR$/OwlAcademic.iml" group="OwlAcademic" />
+      <module fileurl="file://$PROJECT_DIR$/Imagepickers/OwlAcademic-Imagepickers.iml" filepath="$PROJECT_DIR$/Imagepickers/OwlAcademic-Imagepickers.iml" group="OwlAcademic/Imagepickers" />
+      <module fileurl="file://$PROJECT_DIR$/Utilities/OwlAcademic-Utilities.iml" filepath="$PROJECT_DIR$/Utilities/OwlAcademic-Utilities.iml" group="OwlAcademic/Utilities" />
+      <module fileurl="file://$PROJECT_DIR$/app/OwlAcademic-app.iml" filepath="$PROJECT_DIR$/app/OwlAcademic-app.iml" group="OwlAcademic/app" />
+      <module fileurl="file://$PROJECT_DIR$/Practical.iml" filepath="$PROJECT_DIR$/Practical.iml" group="Practical" />
+      <module fileurl="file://$PROJECT_DIR$/Imagepickers/Practical-Imagepickers.iml" filepath="$PROJECT_DIR$/Imagepickers/Practical-Imagepickers.iml" group="Practical/Imagepickers" />
+      <module fileurl="file://$PROJECT_DIR$/Utilities/Practical-Utilities.iml" filepath="$PROJECT_DIR$/Utilities/Practical-Utilities.iml" group="Practical/Utilities" />
+      <module fileurl="file://$PROJECT_DIR$/app/Practical-app.iml" filepath="$PROJECT_DIR$/app/Practical-app.iml" group="Practical/app" />
+      <module fileurl="file://$PROJECT_DIR$/Utilities/Utilities.iml" filepath="$PROJECT_DIR$/Utilities/Utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

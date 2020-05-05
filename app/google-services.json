@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288241916338",
+    "firebase_url": "https://owlacademic.firebaseio.com",
+    "project_id": "owlacademic",
+    "storage_bucket": "owlacademic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288241916338:android:34de42eb92495433",
+        "android_client_info": {
+          "package_name": "com.meet.practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288241916338-qd96g1m7crd8kr5ltnrd6h3rrq59k78o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMoIhV7ErRsBSZokWEiMHvrh_3GFC-BtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288241916338-qd96g1m7crd8kr5ltnrd6h3rrq59k78o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

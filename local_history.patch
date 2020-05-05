@@ -1,0 +1,14 @@
+Index: app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml	(date 1586062064334)
++++ app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml	(date 1586062064334)
+@@ -6,5 +6,5 @@
+ 
+   Do NOT modify, delete, or commit to source control!
+ -->
+-<string tools:ignore="UnusedResources,TypographyDashes" name="com.crashlytics.android.build_id" translatable="false">c84b8943-76de-4c60-80af-c167e20e7891</string>
++<string tools:ignore="UnusedResources,TypographyDashes" name="com.crashlytics.android.build_id" translatable="false">cf203d20-66d4-4c07-b40e-bfcae46a8895</string>
+ </resources>
